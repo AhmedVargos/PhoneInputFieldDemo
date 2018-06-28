@@ -16,7 +16,7 @@
         android:popupBackground="@color/white"
         android:layout_gravity="center"/>
 
-    <android.support.design.widget.TextInputEditText
+    <ru.kolotnev.formattedittext.MaskedEditText
         android:id="@+id/phone_field_textInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
