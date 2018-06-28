@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="flag_images">
+        <item>@drawable/ic_eg</item>
+        <item>@drawable/ic_eu</item>
+        <item>@drawable/ic_gb_wls</item>
+        <item>@drawable/ic_uy</item>
+    </integer-array>
+
+</resources>
