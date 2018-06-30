@@ -5,6 +5,8 @@ A Phone InputField with Country selection Custome component Demo.
 
 # How to use:
 1- add PhoneField to your Xml.
+<br />
 2- In code call setFlagSpinner() and send it a Typed array of flag images, and codes.
+<br />
 All done you could get the phone entered by calling getPhoneNumber().
 
